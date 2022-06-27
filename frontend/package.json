@@ -1,0 +1,17 @@
+{
+  "name": "prisma-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "eslint": "^8.18.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
